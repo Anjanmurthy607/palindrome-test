@@ -1,3 +1,8 @@
-<h1>Palindrome Check</h1>
-<p>Word: ${param.word}</p>
-<p>Is Palindrome: ${requestScope.isPalindrome}</p>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Palindrome Checker Result</title>
+</head>
